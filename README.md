@@ -14,10 +14,10 @@ Click any badge below to open that notebook directly in Google Colab. No install
 
 | Session | Notebook | Open in Colab |
 |---|---|---|
-| 1–2 | Modules 0–3: Orientation, EDA, Preprocessing, PCA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/ai-in-biology-tutorial/blob/main/01-modules-0-3/modules-0-3.ipynb) |
-| 3 | Modules 4–5: Classification, Evaluation Metrics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/ai-in-biology-tutorial/blob/main/02-modules-4-5/modules-4-5.ipynb) |
-| 4 | Modules 6–7: Regression, Unsupervised Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/ai-in-biology-tutorial/blob/main/03-modules-6-7/modules-6-7.ipynb) |
-| 5–6 | Modules 8–12: Neural Networks, NLP, RL, Ethics, Capstone | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/ai-in-biology-tutorial/blob/main/04-modules-8-12/modules-8-12.ipynb) |
+| 1–2 | Modules 0–3: Orientation, EDA, Preprocessing, PCA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayeshmbhagat/AI_IN_BIO/blob/main/01-modules-0-3/modules-0-3.ipynb) |
+| 3 | Modules 4–5: Classification, Evaluation Metrics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayeshmbhagat/AI_IN_BIO/blob/main/02-modules-4-5/modules-4-5.ipynb) |
+| 4 | Modules 6–7: Regression, Unsupervised Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayeshmbhagat/AI_IN_BIO/blob/main/03-modules-6-7/modules-6-7.ipynb) |
+| 5–6 | Modules 8–12: Neural Networks, NLP, RL, Ethics, Capstone | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayeshmbhagat/AI_IN_BIO/blob/main/04-modules-8-12/modules-8-12.ipynb) |
 
 **Important — replace `YOUR-USERNAME` above** with your actual GitHub username once this repository is live, in all four links, before sharing this README with anyone. See the "For instructors" section below for the one-line way to do this.
 
