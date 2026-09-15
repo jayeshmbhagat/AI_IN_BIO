@@ -19,8 +19,6 @@ Click any badge below to open that notebook directly in Google Colab. No install
 | 4 | Modules 6–7: Regression, Unsupervised Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayeshmbhagat/AI_IN_BIO/blob/main/03-modules-6-7/modules-6-7.ipynb) |
 | 5–6 | Modules 8–12: Neural Networks, NLP, RL, Ethics, Capstone | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayeshmbhagat/AI_IN_BIO/blob/main/04-modules-8-12/modules-8-12.ipynb) |
 
-**Important — replace `YOUR-USERNAME` above** with your actual GitHub username once this repository is live, in all four links, before sharing this README with anyone. See the "For instructors" section below for the one-line way to do this.
-
 ---
 
 ## What each session covers
